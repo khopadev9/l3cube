@@ -1,0 +1,30 @@
+
+
+Program:
+
+#!/usr/bin/python
+import os
+import sys
+name=raw_input("1.Enter Folder Name\n") 
+os.chdir("/home/Dan/"+name+"")
+
+pre=os.getcwd()
+print "current working directory is %s"% pre
+
+os.system("ls")
+print " Duplicate Files are : \n"
+
+cmd1="find -not -empty -type f -printf "+"\"%s\n \""+" | sort -rn | uniq -d | xargs -I{} -n1 find -type f -size {}c -print0 | xargs -0 md5sum | sort | uniq -w32 --all-repeated=separate"
+
+os.system(cmd1)
+
+print "\n"
+
+filename=raw_input("Enter name of file to remove")
+os.system("rm /home/Dan/"+name+"/"+filename+"")
+os.system("ls")
+print "File successfully removed."
+
+
+
+
