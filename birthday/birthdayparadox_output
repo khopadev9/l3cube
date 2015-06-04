@@ -1,0 +1,32 @@
+
+----------------------------------OUTPUT------------------------------
+
+This program simulates taking people at random
+until two have been found who were born on the
+same day of the year.
+
+A duplicate birthday was found after 30 tries.
+
+Again? (Y/N):  Y
+A duplicate birthday was found after 17 tries.
+
+Again? (Y/N):  Y
+A duplicate birthday was found after 23 tries.
+
+Again? (Y/N):  Y
+A duplicate birthday was found after 30 tries.
+
+Again? (Y/N):  Y
+A duplicate birthday was found after 27 tries.
+
+Again? (Y/N):  Y
+A duplicate birthday was found after 19 tries.
+
+Again? (Y/N):  Y
+A duplicate birthday was found after 25 tries.
+
+Again? (Y/N):  N
+
+
+OK.  Goodbye.
+
