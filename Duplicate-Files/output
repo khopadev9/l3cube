@@ -1,0 +1,172 @@
+[Dan@localhost ~]$ python first1.py
+1.Enter Folder Name
+Software
+current working directory is /home/Dan/Software
+apache-cassandra-2.1.0-bin.tar.gz  cassandra-jdbc-1.2.5(1).jar		Latex				    sleuthkit-4.1.3.tar.gz
+apache-tomcat-7.0.54		   Fedora-Live-Desktop-x86_64-20-1.iso	mongo-2.10.1.jar
+apache-tomcat-7.0.54.tar.gz	   ivy-2.3.0-rc2.jar			myLanguages
+autopsy-2.24.tar.gz		   java-driver-2.1.zip			mysql-connector-java-5.1.6-bin.jar
+ Duplicate Files are : 
+
+0541d3df42520911f268abc730f3afe0  ./apache-tomcat-7.0.54/webapps/docs/images/asf-logo.gif
+0541d3df42520911f268abc730f3afe0  ./apache-tomcat-7.0.54/webapps/host-manager/images/asf-logo.gif
+0541d3df42520911f268abc730f3afe0  ./apache-tomcat-7.0.54/webapps/manager/images/asf-logo.gif
+
+069e7b1a31ba2942704d67a984f00ea0  ./apache-tomcat-7.0.54/webapps/ROOT/assingb1/existingadd.jsp
+069e7b1a31ba2942704d67a984f00ea0  ./apache-tomcat-7.0.54/webapps/ROOT/assingb1/existingadd.jsp~
+
+0c311b7bc625224fdfecfc3d7d1bf4cc  ./myLanguages/TC/BIN/TYCONVER.BAK
+0c311b7bc625224fdfecfc3d7d1bf4cc  ./myLanguages/TC/BIN/TYCONVER.CPP
+
+0e4dd657fc6370cbcf3369d6715d4b09  ./apache-tomcat-7.0.54/webapps/ROOT/assingb1/newmedadd.css
+0e4dd657fc6370cbcf3369d6715d4b09  ./apache-tomcat-7.0.54/webapps/ROOT/assingb1/newmedadd.css~
+
+1a9ec8999bca762de872192ca7bd4f3b  ./Latex/texmakerwin32usb/texmakerwin32usb/doc6ahu.png
+1a9ec8999bca762de872192ca7bd4f3b  ./Latex/texmakerwin32usb/texmakerwin32usb/doc6bis.png
+
+28165c1aaceb324ff796d9862b11b37e  ./myLanguages/DOSBox 0.74 Manual.txt
+28165c1aaceb324ff796d9862b11b37e  ./myLanguages/Documentation/README.txt
+
+28759afd8a81cbfaaed6e9d3b4a6898c  ./myLanguages/TC/BIN/ARYAN.BAK
+28759afd8a81cbfaaed6e9d3b4a6898c  ./myLanguages/TC/BIN/ARYAN.CPP
+
+299832a6e4a80ffba460692a99f696ff  ./Latex/texmakerwin32usb/texmakerwin32usb/doc3.png
+299832a6e4a80ffba460692a99f696ff  ./Latex/texmakerwin32usb/texmakerwin32usb/doc3hu.png
+
+2f0d65e230d80c0260bb52f2eac1faf2  ./myLanguages/TC/BIN/CPP9.BAK
+2f0d65e230d80c0260bb52f2eac1faf2  ./myLanguages/TC/BIN/CPP9.CPP
+
+2fdd3b011fdea657da943f6d7155b326  ./myLanguages/TC/BIN/CHECKEXP.CPP
+2fdd3b011fdea657da943f6d7155b326  ./myLanguages/TC/BIN/NONAME03.CPP
+
+301cded8ab5ccc58123b702476b2f036  ./apache-tomcat-7.0.54/webapps/examples/jsp/jsp2/jspattribute/HelloWorldSimpleTag.java.html
+301cded8ab5ccc58123b702476b2f036  ./apache-tomcat-7.0.54/webapps/examples/jsp/jsp2/simpletag/HelloWorldSimpleTag.java.html
+
+308f861aa205037f8f49296e6b61b51b  ./myLanguages/2.bat
+308f861aa205037f8f49296e6b61b51b  ./myLanguages/MASM/1.bat
+
+35a68724e7a6d4d995eefc04af917489  ./myLanguages/TC/BIN/STACK.BAK
+35a68724e7a6d4d995eefc04af917489  ./myLanguages/TC/BIN/STACK.CPP
+
+37830c13d5b06b1d5b149822c59ef3aa  ./myLanguages/TC/BIN/EXPCHECK.BAK
+37830c13d5b06b1d5b149822c59ef3aa  ./myLanguages/TC/BIN/EXPCHECK.CPP
+
+39bb354d218b30680542cc7d65dadcf6  ./myLanguages/TC/BIN/CIRQUEUE.BAK
+39bb354d218b30680542cc7d65dadcf6  ./myLanguages/TC/BIN/CIRQUEUE.CPP
+
+3bca6f2305b59e1794abafa03da6b58c  ./myLanguages/TC/BIN/INHERITANCE/INH.BAK
+3bca6f2305b59e1794abafa03da6b58c  ./myLanguages/TC/BIN/INHERITANCE/INH.CPP
+
+3cad58ab869b04f6d0e8c4a24d2944aa  ./apache-tomcat-7.0.54/webapps/docs/images/update.gif
+3cad58ab869b04f6d0e8c4a24d2944aa  ./apache-tomcat-7.0.54/webapps/host-manager/images/update.gif
+3cad58ab869b04f6d0e8c4a24d2944aa  ./apache-tomcat-7.0.54/webapps/manager/images/update.gif
+
+3e5d4c650d46bf5f721d8159b073d811  ./myLanguages/TC/BIN/RRR.BAK
+3e5d4c650d46bf5f721d8159b073d811  ./myLanguages/TC/BIN/RRR.CPP
+3e5d4c650d46bf5f721d8159b073d811  ./myLanguages/TC/BIN/rajendrarathod/ARRRAY.BAK
+
+3e6be380376abac118a6fefe00ebb423  ./apache-tomcat-7.0.54/webapps/ROOT/assingb1/search.css
+3e6be380376abac118a6fefe00ebb423  ./apache-tomcat-7.0.54/webapps/ROOT/assingb1/search.css~
+
+40811c724a24c3a317113dbbe5cd3bab  ./myLanguages/TC/BIN/INHERITANCE/INHERITANCE.cPP
+40811c724a24c3a317113dbbe5cd3bab  ./myLanguages/TC/BIN/INHERITANCE/main.cpp
+
+40be305ee91fb6a7a385eeb260c7c08a  ./apache-tomcat-7.0.54/webapps/ROOT/WEB-INF/lib/mysql-connector-java-5.1.6-bin.jar
+40be305ee91fb6a7a385eeb260c7c08a  ./mysql-connector-java-5.1.6-bin.jar
+
+445d609ff8f9a06c95ccab3d82906926  ./myLanguages/TC/BIN/CG4.BAK
+445d609ff8f9a06c95ccab3d82906926  ./myLanguages/TC/BIN/CG4.CPP
+
+46ad528095b57d0cb648f07e64df1072  ./apache-tomcat-7.0.54/webapps/ROOT/assingb1/expiry.jsp
+46ad528095b57d0cb648f07e64df1072  ./apache-tomcat-7.0.54/webapps/ROOT/assingb1/expiry.jsp~
+
+47d2183ca94a64bbe99c5ddc2c049463  ./myLanguages/TC/BIN/POSTPRE.BAK
+47d2183ca94a64bbe99c5ddc2c049463  ./myLanguages/TC/BIN/POSTPRE.CPP
+
+4e41a821f4efec0737195ca34695a4d5  ./apache-tomcat-7.0.54/webapps/ROOT/tomcat.gif
+4e41a821f4efec0737195ca34695a4d5  ./apache-tomcat-7.0.54/webapps/docs/images/tomcat.gif
+4e41a821f4efec0737195ca34695a4d5  ./apache-tomcat-7.0.54/webapps/manager/images/tomcat.gif
+
+5137f5a90f2b128fd6031d4289ca3165  ./apache-tomcat-7.0.54/webapps/docs/images/docs.gif
+5137f5a90f2b128fd6031d4289ca3165  ./apache-tomcat-7.0.54/webapps/host-manager/images/docs.gif
+5137f5a90f2b128fd6031d4289ca3165  ./apache-tomcat-7.0.54/webapps/manager/images/docs.gif
+
+51dd1df3a86f25fcb6e09563a905d077  ./myLanguages/MASM/M.bat
+51dd1df3a86f25fcb6e09563a905d077  ./myLanguages/TASM/M.bat
+51dd1df3a86f25fcb6e09563a905d077  ./myLanguages/TC/BIN/M.bat
+
+544c5f287be039bd705139cb47668aeb  ./myLanguages/TC/BIN/RK.C
+544c5f287be039bd705139cb47668aeb  ./myLanguages/TC/BIN/RRRR.C
+544c5f287be039bd705139cb47668aeb  ./myLanguages/TC/BIN/rajendrarathod/RK.BAK
+544c5f287be039bd705139cb47668aeb  ./myLanguages/TC/BIN/rajendrarathod/RK.C
+
+5a9e8e9b90e187ed4c72795e2e870eb4  ./Latex/texmakerwin32usb/texmakerwin32usb/doc16.png
+5a9e8e9b90e187ed4c72795e2e870eb4  ./Latex/texmakerwin32usb/texmakerwin32usb/doc16hu.png
+
+5aac4f605851ae99bbe7e508130fa2cc  ./myLanguages/TC/BIN/APPL1STA.BAK
+5aac4f605851ae99bbe7e508130fa2cc  ./myLanguages/TC/BIN/APPL1STA.CPP
+
+5ad4989c8388637b0a52758612003d88  ./apache-tomcat-7.0.54/webapps/ROOT/assingb1/delete.css
+5ad4989c8388637b0a52758612003d88  ./apache-tomcat-7.0.54/webapps/ROOT/assingb1/delete.css~
+
+64f59c643cde5a2c1d40393009f61cb1  ./myLanguages/TC/BIN/MAIN.BAK
+64f59c643cde5a2c1d40393009f61cb1  ./myLanguages/TC/BIN/MAIN.CPP
+
+665e03515bee5ada7229bf2a9ef0f856  ./myLanguages/TC/BIN/CPP7.BAK
+665e03515bee5ada7229bf2a9ef0f856  ./myLanguages/TC/BIN/CPP7.CPP
+
+6bf3dc8fd201e261788eb6d8eec9a80b  ./apache-tomcat-7.0.54/webapps/ROOT/assingb1/update.css
+6bf3dc8fd201e261788eb6d8eec9a80b  ./apache-tomcat-7.0.54/webapps/ROOT/assingb1/update.css~
+
+6d22e4f2d2057c6e8d6fab098e76e80f  ./apache-tomcat-7.0.54/webapps/docs/images/void.gif
+6d22e4f2d2057c6e8d6fab098e76e80f  ./apache-tomcat-7.0.54/webapps/host-manager/images/void.gif
+6d22e4f2d2057c6e8d6fab098e76e80f  ./apache-tomcat-7.0.54/webapps/manager/images/void.gif
+
+7141fa7deab24d8df60e6beae437eef2  ./apache-tomcat-7.0.54/webapps/examples/jsp/images/execute.gif
+7141fa7deab24d8df60e6beae437eef2  ./apache-tomcat-7.0.54/webapps/examples/servlets/images/execute.gif
+
+71609a07ea6697c305b913c76bad3c9f  ./apache-tomcat-7.0.54/webapps/host-manager/index.jsp
+71609a07ea6697c305b913c76bad3c9f  ./apache-tomcat-7.0.54/webapps/manager/index.jsp
+
+720d7cf71aea1d126564e877ce79b600  ./apache-tomcat-7.0.54/webapps/ROOT/assingb1/addnew.jsp
+720d7cf71aea1d126564e877ce79b600  ./apache-tomcat-7.0.54/webapps/ROOT/assingb1/addnew.jsp~
+
+7219894be6ef6aeab443196d6ba30b7b  ./myLanguages/TC/BIN/CG5.BAK
+7219894be6ef6aeab443196d6ba30b7b  ./myLanguages/TC/BIN/CG5.CPP
+
+738cda3ae2949ee902f8d55b6021d868  ./myLanguages/TC/BGI/EGAVGA.BGI
+738cda3ae2949ee902f8d55b6021d868  ./myLanguages/TC/BIN/EGAVGA.BGI
+
+76d4b96184a0b62e0f8fcfae4cbda3e9  ./Latex/texmakerwin32usb/texmakerwin32usb/doc10.png
+76d4b96184a0b62e0f8fcfae4cbda3e9  ./Latex/texmakerwin32usb/texmakerwin32usb/doc10hu.png
+
+790c10e7eafdb6d1523d4ef7f2f8807a  ./apache-tomcat-7.0.54/webapps/ROOT/assingb1/update.html
+790c10e7eafdb6d1523d4ef7f2f8807a  ./apache-tomcat-7.0.54/webapps/ROOT/assingb1/update.html~
+
+792076c76f222f6b91689f6e08e0e7ee  ./apache-tomcat-7.0.54/webapps/docs/appdev/build.xml.txt
+792076c76f222f6b91689f6e08e0e7ee  ./apache-tomcat-7.0.54/webapps/docs/appdev/sample/build.xml
+
+824fd07bd4e45bc2e3c281f0f766a10f  ./myLanguages/TC/BIN/SAMPLE.BAK
+824fd07bd4e45bc2e3c281f0f766a10f  ./myLanguages/TC/BIN/SAMPLE.C
+ea807c2ed18f1d340ce3d137e64fe0e3  ./myLanguages/FACT.C
+
+ea807c2ed18f1d340ce3d137e64fe0e3  ./myLanguages/TC/BIN/FACT.BAK
+ea807c2ed18f1d340ce3d137e64fe0e3  ./myLanguages/TC/BIN/FACT.C
+
+ebb171fa69a52cf8ad794a741a9bf2fe  ./apache-tomcat-7.0.54/webapps/examples/WEB-INF/jsp/applet/Clock2.java
+ebb171fa69a52cf8ad794a741a9bf2fe  ./apache-tomcat-7.0.54/webapps/examples/jsp/plugin/applet/Clock2.java
+
+
+ebec66424dce016fb9c7f6fc03ba94f5  ./apache-tomcat-7.0.54/webapps/ROOT/assingb1/search.jsp
+ebec66424dce016fb9c7f6fc03ba94f5  ./apache-tomcat-7.0.54/webapps/ROOT/assingb1/search.jsp~
+
+ee0ec9144bc48c4472cbdc79e52a6915  ./apache-tomcat-7.0.54/webapps/ROOT/assingb1/addexisting.jsp
+ee0ec9144bc48c4472cbdc79e52a6915  ./apache-tomcat-7.0.54/webapps/ROOT/assingb1/addexisting.jsp~
+
+Enter name of file to remove./myLanguages/FACT.C
+apache-cassandra-2.1.0-bin.tar.gz  cassandra-jdbc-1.2.5(1).jar		Latex				    sleuthkit-4.1.3.tar.gz
+apache-tomcat-7.0.54		   Fedora-Live-Desktop-x86_64-20-1.iso	mongo-2.10.1.jar
+apache-tomcat-7.0.54.tar.gz	   ivy-2.3.0-rc2.jar			myLanguages
+autopsy-2.24.tar.gz		   java-driver-2.1.zip			mysql-connector-java-5.1.6-bin.jar
+
+File successfully removed.
